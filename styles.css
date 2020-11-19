@@ -1,0 +1,41 @@
+* {
+    /*margin: 0 auto;*/
+    margin: 0 20px 10px 30px;
+}
+body {
+    /*background-color:blue*/
+}
+
+p {
+    border: 1px dotted black;
+    border-radius: 5px;
+    color:white;
+}
+
+#principal {
+    background-color: rgba(70,180,103, 0.5);
+    color:blueviolet;
+    font-weight: bolder;
+    padding:20px;
+    text-align: center;
+    height: 100px;
+    /* position: fixed; */
+    /* top: 0; */
+    /*opacity: 0.5;*/
+}
+
+.espacamento {
+    margin: 10px;
+}
+
+.chave {
+    background-color: blue;
+}
+
+#divMaior {
+    display: flex;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    text-transform: uppercase;
+    text-decoration: overline;
+}
