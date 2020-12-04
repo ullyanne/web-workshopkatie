@@ -1,3 +1,72 @@
+body{
+    background-color: #f1f0f0;
+    margin: 0 auto;
+}
+H3 { 
+    text-align: center;
+}
+
+H1{
+    color: #ff9a8c;
+    background-color: white;
+    text-align: center;
+    font-family:'sans-serif';
+    margin: 0 auto;
+    padding-bottom: 10px;
+    text-decoration: overline;
+}
+
+#divInfo{
+    display: flex;
+    background-color: #fad5ad;
+    border-radius: 5px;
+    width: 100%;
+    height: auto;
+    justify-content: center; 
+    align-items: center;
+}
+
+.grid{
+    display: grid;
+    margin: 15px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+.titulo{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 0.02em;
+    font-weight: bolder;
+    color: #979c5e
+}
+
+span{
+    font-family: 'sans-serif';
+}
+
 .passos{
-    font-family:'arial'
+    font-family:'arial';
+    background-color: white;
+    border-radius: 10px;
+    margin-top: 20px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.mural{
+    text-align: center;
+    text-transform: lowercase;
+    color: #adb36e;
+    background-color: white;
+    padding: 10px;
+    padding-bottom: auto;
+}
+
+#original{
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
